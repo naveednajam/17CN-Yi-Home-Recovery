@@ -38,7 +38,7 @@ mtdblock5    --> this is the home partition image for 1.8.6C verion
 yi-hack-v3 for 17CN --> this will allow us to ssh/telnet into the camera
 yi-hck-v3 recovery images --> required to restore rootfs partition
 Download link:
-https://www.dropbox.com/sh/0eerqc43x9strjx/AADM96BjbMDnJfL9tbp8q7Bba?dl=0
+https://www.dropbox.com/l/scl/AAALp3hWq9EMZ3rU1skJjK49UzrZasxtu4Y
 
 2. At this step I assume you already have working 17CN camera with official firmware 
 3. copy the files for yi-hack-v3 folder to the root of SD card. 
