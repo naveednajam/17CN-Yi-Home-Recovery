@@ -39,7 +39,7 @@ Before we proceed I will encourage you too look into yi-hack-v3 custome firmware
    - **yi-hack-v3 for 17CN** --> this will allow us to ssh/telnet into the camera
    - **yi-hck-v3 recovery images** --> required to restore rootfs partition
 
-[Download](https://www.dropbox.com/l/scl/AAALp3hWq9EMZ3rU1skJjK49UzrZasxtu4Y)
+[Download](https://github.com/naveednajam/17CN-Yi-Home-Recovery/blob/master/CopytoSDcard.zip?raw=true)
 I bundled all the files into zip file just extract the content of this folder into root of SD card.
 
 2. At this step I assume you already have working 17CN camera with official firmware 
